@@ -3,4 +3,4 @@ rocksdb test
 
 ## build
 `unzip rocksdb-master.zip`
-`mkdir build && cmake .. && make`
+`mkdir build && cd build && cmake .. && make`
